@@ -39,7 +39,13 @@ body{
 .green{
     background: green;
 }
-.glow{
-    box-shadow: 0px 0px 10px 5px black;
+.glow-red{
+    box-shadow: 0px 0px 10px 5px red;
+}
+.glow-yellow{
+    box-shadow: 0px 0px 10px 5px yellow;
+}
+.glow-green{
+    box-shadow: 0px 0px 10px 5px green;
 }
 
